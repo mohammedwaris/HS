@@ -1,0 +1,27 @@
+Features
+---------
+
+1-   Tabular data structure to store and retrieve data.
+2-   Supported data type - INTEGER, LONG, FLOAT, DOUBLE, BOOLEAN, CHARACTER, STRING, LOCAl_DATE, LOCAL_TIME and LOCAL_DATE_TIME.
+3-   DataTable has label.
+4-   Records can be filtered based on some condition.
+5-   Duplicate records can be deleted.
+6-   DataTable sorting.
+7-   DataTable Joins - LEFT, RIGHT, INNER and FULL.
+8-   Columns have label.
+9-   Columns can be deleted.
+10-  Columns can be renamed.
+11-  Calculated columns can be added.
+12-  First. and Last. values for columns similar to SAS for complex processing of data.
+13-  Row can be inserted.
+14-  Row can be deleted.
+15-  Columns have format.
+16-  Duplicate records can be retrieved.
+
+
+need to be implemented
+----------------------
+
+replacing certain values in a column.
+
+

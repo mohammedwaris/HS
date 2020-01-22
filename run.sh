@@ -1,0 +1,1 @@
+java -Xms256m -Xmx1024m -classpath ".:build:jars/json-simple-1.1.1.jar:jars/opencsv-3.3.jar:jars/commons-lang3-3.8.1.jar:jars/slf4j-api-1.7.26.jar:jars/slf4j-simple-1.7.26.jar:jars/mapdb-3.0.7.jar:practice" Test

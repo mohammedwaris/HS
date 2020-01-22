@@ -1,0 +1,8 @@
+Name,DataType,Format,Label
+Name,STRING,false,
+Time,LOCAL_TIME,false,
+Sub_ject,STRING,false,
+Admission_Date,STRING,false,
+Percentage,INTEGER,false,
+Hobby,STRING,false,
+Religion,STRING,false,
